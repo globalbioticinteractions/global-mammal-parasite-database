@@ -1,0 +1,17 @@
+{
+  "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
+  "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
+  "tables": [
+    { 
+      "url1": "zip:https://esajournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fecy.1799&file=ecy1799-sup-0001-DataS1.zip!/GMPD_datafiles/GMPD_main.csv",
+      "url": "GMPD_main.csv",
+      "dcterms:bibliographicCitation": "Stephens, P. R., Pappalardo, P. , Huang, S. , Byers, J. E., Farrell, M. J., Gehman, A. , Ghai, R. R., Haas, S. E., Han, B. , Park, A. W., Schmidt, J. P., Altizer, S. , Ezenwa, V. O. and Nunn, C. L. (2017), Global Mammal Parasite Database version 2.0. Ecology, 98: 1476-1476. doi:10.1002/ecy.1799",
+      "doi": "10.1002/ecy.1799",
+      "tableSchema": "schema.json",
+      "headerRowCount": 1,
+      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002445",
+      "interactionTypeName": "parasitizedBy",
+      "null": ["NA"]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "columns": [
+    {
+      "name": "Group",
+      "titles": "Group",
+      "datatype": "string"
+    },
+    {
+      "name": "HostReportedName",
+      "titles": "HostReportedName",
+      "datatype": "string"
+    },
+
+    {
+      "name": "sourceTaxonName",
+      "titles": "HostCorrectedName",
+      "datatype": "string"
+    },
+    {
+      "name": "HostOrder",
+      "titles": "HostOrder",
+      "datatype": "string"
+    },
+    {
+      "name": "HostFamily",
+      "titles": "HostFamily",
+      "datatype": "string"
+    },
+    {
+      "name": "HostEnvironment",
+      "titles": "HostEnvironment",
+      "datatype": "string"
+    },
+    {
+      "name": "ParasiteReportedName",
+      "titles": "ParasiteReportedName",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonName",
+      "titles": "ParasiteCorrectedName",
+      "datatype": "string"
+    },
+    {
+      "name": "HasBinomialName",
+      "titles": "HasBinomialName",
+      "datatype": "string"
+    },
+    {
+      "name": "ParType",
+      "titles": "ParType",
+      "datatype": "string"
+    },
+    {
+      "name": "ParPhylum",
+      "titles": "ParPhylum",
+      "datatype": "string"
+    },
+    {
+      "name": "ParClass",
+      "titles": "ParClass",
+      "datatype": "string"
+    },
+    {
+      "name": "referenceCitation",
+      "titles": "Citation",
+      "datatype": "string"
+    },
+    {
+      "name": "localityName",
+      "titles": "LocationName",
+      "datatype": "string"
+    },
+    {
+      "name": "decimalLongitude",
+      "titles": "Longitude",
+      "datatype": "string"
+    },
+    {
+      "name": "decimalLatitude",
+      "titles": "Latitude",
+      "datatype": "string"
+    },
+    {
+      "name": "PopulationType",
+      "titles": "PopulationType",
+      "datatype": "string"
+    },
+    {
+      "name": "SamplingBasis",
+      "titles": "SamplingBasis",
+      "datatype": "string"
+    },
+    {
+      "name": "SampleNotes",
+      "titles": "SampleNotes.ID",
+			"datatype": "string"
+    },
+    {
+      "name": "Prevalence",
+      "titles": "Prevalence",
+      "datatype": "string"
+    },
+    {
+      "name": "HostsSampled",
+      "titles": "HostsSampled",
+      "datatype": "string"
+    },
+    {
+      "name": "HostSex",
+      "titles": "HostSex",
+      "datatype": "string"
+    },
+    {
+      "name": "HostAge",
+      "titles": "HostAge",
+      "datatype": "string"
+    },
+    {
+      "name": "Intensity",
+      "titles": "Intensity",
+      "datatype": "string"
+    },
+																					
+    {
+      "name": "IntensityMeasure",
+      "titles": "IntensityMeasure",
+      "datatype": "string"
+    },
+    {
+      "name": "NativeRange",
+      "titles": "NativeRange",
+      "datatype": "string"
+    },
+    {
+      "name": "NumSamples",
+      "titles": "NumSamples",
+      "datatype": "string"
+    },
+    {
+      "name": "SamplingType",
+      "titles": "SamplingType",
+      "datatype": "string"
+    }
+  ]
+}
