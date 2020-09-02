@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/globalbioticinteractions/global-mammal-parasite-database.svg?branch=master)](https://travis-ci.org/globalbioticinteractions/global-mammal-parasite-database) 
+[![Build Status](https://travis-ci.com/globalbioticinteractions/global-mammal-parasite-database.svg?branch=master)](https://travis-ci.com/globalbioticinteractions/global-mammal-parasite-database) 
 
 Metadata relates to:
 
